@@ -1,0 +1,13 @@
+body {
+    background-color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2{
+    color: seashell;
+    font-weight: bold;
+}
