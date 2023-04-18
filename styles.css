@@ -11,3 +11,8 @@ h1, h2{
     color: seashell;
     font-weight: bold;
 }
+
+.rescale {
+    height: auto;
+    width: 600px;
+}
